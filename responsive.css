@@ -1,5 +1,5 @@
 /*タブレット用設定*/
-@media all and (max-width: 1000px) {
+@media(max-width: 1000px) {
   .three{
     width: auto;
   }
