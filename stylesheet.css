@@ -81,9 +81,8 @@ height: auto;
 
 .three{
   width: 920px;
-
   margin-bottom: 130px;
-  display: block;
+  height: auto;
 }
 
 .three h3{
