@@ -1,0 +1,10 @@
+/*タブレット用設定*/
+@media all and (max-width: 1000px) {
+  .three{
+    width: auto;
+  }
+
+  .t{
+    width: 30%;
+  }
+}
