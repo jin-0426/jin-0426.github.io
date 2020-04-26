@@ -1,0 +1,92 @@
+header{
+  height: 180px;
+  position: relative;
+}
+
+  header img{
+  padding-top: 70px;
+  width: 300px;
+  float: left;
+}
+
+.container{
+  width: 65%;
+  margin: 0 auto;
+}
+
+.menu{
+  position: absolute;
+  right: 30px;
+  bottom: 30px;
+  float: right;
+}
+.menu li{
+  margin-right: 20px;
+  list-style: none;
+  display: inline-block;
+}
+
+.g{
+  text-decoration: none;
+  color: grey;
+}
+
+.h,.ha{
+  color: grey;
+}
+
+.ha{
+  margin-right: 10px;
+}
+
+.sns{
+  display: inline-block;
+}
+
+.socialBtn{
+  position: absolute;
+  top: 70px;
+  right: 50px;
+
+}
+
+.pic img{
+width: 100%;
+height: auto;
+}
+
+.pic{
+  margin-bottom: 50px;
+  display: block;
+}
+
+.visual{
+  width: 920px;
+  margin: 0 auto;
+  background-color: aqua;
+}
+.service{
+  margin-bottom: 40px;
+}
+
+.service h2{
+  line-height: 1;
+  font-weight: lighter;
+  text-align: center;
+  font-size: 40px;
+  font-family: "serif";
+}
+
+.t{
+  float: left;
+  width: 30%;
+  display: inline-block;
+}
+
+.d{
+  font-size: 5em;
+}
+
+.r{
+  text-align: left;
+}
