@@ -64,6 +64,7 @@ height: auto;
   width: 920px;
   margin: 0 auto;
   background-color: aqua;
+  display: block;
 }
 .service{
   margin-bottom: 40px;
@@ -77,12 +78,25 @@ height: auto;
   font-family: "serif";
 }
 
+.three{
+  width: 920px;
+}
 .t{
-  float: left;
-  width: 30%;
   display: inline-block;
+  text-align: center;
 }
 
+._one,._two{
+  width:280px;
+  margin-right: 40px;
+  height: auto;
+  float: left;
+}
+._three{
+  width: 280px;
+  float:left;
+  height: auto;
+}
 .d{
   font-size: 5em;
 }
