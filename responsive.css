@@ -8,3 +8,15 @@
     width: 30%;
   }
 }
+
+/*スマホ用設定*/
+@media all and (max-width: 760px){
+  .three{
+    width: auto;
+  }
+  .t{
+    display: block;
+    width: 100%;
+  }
+}
+
